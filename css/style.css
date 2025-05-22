@@ -11,3 +11,17 @@ footer{
     color: white !important;
     text-align: center !important;
 }
+
+.rounded-logo{
+    border-radius: 50% !important;
+    object-fit: cover;
+}
+
+.rounded-logo:hover {
+    transform: scale(1.1);
+}
+
+.rounded-logo {
+    width: 65px;
+    height: 65px;
+}

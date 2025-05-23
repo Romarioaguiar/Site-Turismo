@@ -12,16 +12,55 @@ footer{
     text-align: center !important;
 }
 
-.rounded-logo{
-    border-radius: 50% !important;
-    object-fit: cover;
+.card-img{
+    max-height: 40em !important;
 }
 
-.rounded-logo:hover {
-    transform: scale(1.1);
+.carousel-caption{
+    background-color: rgba(82, 77, 77, 0.739) !important;
 }
 
-.rounded-logo {
-    width: 65px;
-    height: 65px;
+.divisao{
+    background-color: rgb(47, 47, 114) !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 2em !important;
+ 
+}
+
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important;
+}
+
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+
+.card p{
+    text-align: justify !important;
+}
+
+.card h4{
+    color: brown !important;
+}
+
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+.links {
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.mapa{
+    margin-top: 5%!important;
 }
